@@ -1,0 +1,7 @@
+D:\git\12_10_2019\JSON_parser\bin\Debug\JSON_parser.exe.config
+D:\git\12_10_2019\JSON_parser\bin\Debug\JSON_parser.exe
+D:\git\12_10_2019\JSON_parser\bin\Debug\JSON_parser.pdb
+D:\git\12_10_2019\JSON_parser\obj\Debug\JSON_parser.csprojAssemblyReference.cache
+D:\git\12_10_2019\JSON_parser\obj\Debug\JSON_parser.csproj.CoreCompileInputs.cache
+D:\git\12_10_2019\JSON_parser\obj\Debug\JSON_parser.exe
+D:\git\12_10_2019\JSON_parser\obj\Debug\JSON_parser.pdb
